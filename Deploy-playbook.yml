@@ -11,4 +11,4 @@
       shell: docker pull yasha145/dockerproject_1:latest
 
     - name: running container
-      shell: docker run -it -d yasha145/dockerproject_1:latest /bin/bash
+      shell: docker run -it -d yasha145/dockerproject_1:latest
