@@ -1,8 +1,14 @@
 ---
-- name: Pull Docker Image
+- name: Pull docker image of Calculator
   hosts: all
   tasks:
-    - name: Pull Project Image from Docker Hub
-      docker_image:
-        name: yasha145/dockerproject_1:latest
-        source: pull
+    - name: sudo Start docker service
+      service:
+        name: docker
+        state: started
+
+    - name: pull docker image
+      shell: docker pull yasha145/dockerproject_1:latest
+
+    - name: running container
+      shell: docker run -it -d yasha145/dockerproject_1:latest /bin/bash
