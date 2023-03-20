@@ -11,7 +11,7 @@
       shell: docker pull yasha145/dockerproject_1:latest
 
     - name: Stoping and removing container image
-      shell: docker stop calc && docker rm calci
+      shell: docker stop calci && docker rm calci
 
     - name: running container
       shell: docker run -it -d --name calci yasha145/dockerproject_1:latest && gnome-terminal -- bash -c "docker attach calci; exec bash"
