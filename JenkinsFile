@@ -1,0 +1,41 @@
+ pipeline {
+    agent any
+    
+    stages {
+        stage('Clone Git')
+        {
+        steps{
+                git 'https://github.com/yashadayal/Calculator-using-devOps.git'
+            }
+        }
+        stage('Build Code') {
+            steps {
+                sh "mvn clean install"
+                }
+        }
+        stage('Build Docker Image') {
+			steps {
+				sh "docker build -t yasha145/dockerproject_1:latest ."
+			}
+		}
+
+        stage('Push Docker Image to Docker Hub') {
+			steps {
+    			withDockerRegistry([ credentialsId: "Docker", url: ""]){
+    				sh 'docker push yasha145/dockerproject_1:latest'
+			    }
+			}
+		}
+		stage('Deployment Stage') {
+		    steps {
+		        ansiblePlaybook becomeUser: 'null',
+                colorized: true,
+                installation: 'Ansible',
+                inventory: 'inventory',
+                playbook: 'Deploy-playbook.yml',
+                sudoUser: 'null'
+		    }
+		}
+       
+    }
+}
