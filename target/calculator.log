@@ -1,0 +1,2 @@
+2023-03-21 00:00:01.977 [main] INFO  org.example.ScientificCalculator - [Calculating the square root of: ] - 25.0
+2023-03-21 00:00:01.983 [main] INFO  org.example.ScientificCalculator - [Square root is: ] - 5.0
