@@ -11,4 +11,4 @@
       shell: docker pull yasha145/dockerproject_1:latest
 
     - name: running container
-      shell: docker run -it -d yasha145/dockerproject_1:latest
+      shell: docker run -it -d --name calci yasha145/dockerproject_1:latest && gnome-terminal -- bash -c "docker attach calci; exec bash"
