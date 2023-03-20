@@ -13,6 +13,7 @@ public class ScientificCalculator {
 
         Scanner scanner = new Scanner(System.in);
         ScientificCalculator scientificCalculator = new ScientificCalculator();
+        scanner.next();
 
         do {
             System.out.println("==================Scientific-Calculator===================");
