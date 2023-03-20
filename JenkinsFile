@@ -13,6 +13,11 @@
                 sh "mvn clean install"
                 }
         }
+        stage('Test Code') {
+            steps {
+                sh "mvn test"
+                }
+        }
         stage('Build Docker Image') {
 			steps {
 				sh "docker build -t yasha145/dockerproject_1:latest ."
@@ -26,7 +31,7 @@
 			    }
 			}
 		}
-		stage('Deployment Stage') {
+		stage('Deploy to AWS EC2') {
 		    steps {
 		        ansiblePlaybook becomeUser: 'null',
                 colorized: true,
