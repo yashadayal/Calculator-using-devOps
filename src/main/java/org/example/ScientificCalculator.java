@@ -13,7 +13,8 @@ public class ScientificCalculator {
 
         Scanner scanner = new Scanner(System.in);
         ScientificCalculator scientificCalculator = new ScientificCalculator();
-        scanner.next();
+        System.out.println("Enter to continue");
+        scanner.nextLine();
 
         do {
             System.out.println("==================Scientific-Calculator===================");
