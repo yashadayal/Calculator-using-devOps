@@ -9,12 +9,11 @@ public class ScientificCalculator {
 
     private static final Logger logger =  (Logger) LogManager.getLogger(ScientificCalculator.class);
 
-    //public static void main(String[] args) throws InterruptedException {
-        public void runService(){
+    public static void main(String[] args) throws InterruptedException {
         Scanner scanner = new Scanner(System.in);
         ScientificCalculator scientificCalculator = new ScientificCalculator();
-        //System.out.println("Enter to continue");
-        //scanner.nextLine();
+        System.out.println("Enter to continue");
+        scanner.nextLine();
 
         do {
             System.out.println("==================Scientific-Calculator===================");
