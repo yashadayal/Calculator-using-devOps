@@ -22,7 +22,7 @@ public class ScientificCalculator {
                             "Enter 2 to calculate the square root of a number\n" +
                             "Enter 3 to calculate the power of a number\n" +
                             "Enter 4 to calculate the natural logarithm of a number\n" +
-                            "Enter any other input to exit the program\n" +
+                            "Enter any number other than these four to exit the program\n" +
                             "Please enter your choice: "
             );
 
