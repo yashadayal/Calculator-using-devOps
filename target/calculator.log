@@ -1,2 +1,2 @@
-2023-03-20 23:17:39.615 [main] INFO  org.example.ScientificCalculator - [Calculating factorial of: ] - 4
-2023-03-20 23:17:39.622 [main] INFO  org.example.ScientificCalculator - [Factorial is: ] - 24
+2023-03-20 23:27:16.167 [main] INFO  org.example.ScientificCalculator - [Calculating the square root of: ] - 64.0
+2023-03-20 23:27:16.173 [main] INFO  org.example.ScientificCalculator - [Square root is: ] - 8.0
