@@ -39,7 +39,8 @@ public class ScientificCalculator {
 
             switch (input) {
                 case 1:
-                    int inputChoice1;
+                    int inputChoice1 = -1;
+                    while(inputChoice1 < 0) {
                         try {
                             System.out.print("Enter a integer : ");
                             inputChoice1 = scanner.nextInt();
@@ -48,16 +49,16 @@ public class ScientificCalculator {
                                 System.out.println("Sorry! I cannot calculate this as factorial for negative integers is undefined. \n Kindly enter a non-negative number :\n");
                             else
                                 System.out.println("Factorial of " + inputChoice1 + " is: " + scientificCalculator.findFactorial(inputChoice1) + "\n");
-                        }
-                        catch (InputMismatchException e) {
+                        } catch (InputMismatchException e) {
                             System.out.println("Invalid! Please enter valid i.e. non-negative integer \n");
                         }
                         scanner.nextLine();
-
+                    }
                     break;
 
                 case 2:
-                    double inputChoice2;
+                    double inputChoice2 = -1;
+                    while(inputChoice2 < 0) {
                         try {
                             System.out.print("Enter a integer : ");
                             inputChoice2 = scanner.nextDouble();
@@ -66,39 +67,41 @@ public class ScientificCalculator {
                                 System.out.println("Sorry! I cannot calculate this number's square root as for negative integers is undefined. \n Kindly enter a non-negative number :\n");
                             else
                                 System.out.println("Square Root of " + inputChoice2 + " is: " + scientificCalculator.findSquareRoot(inputChoice2) + "\n");
-                        }
-                        catch (InputMismatchException e) {
+                        } catch (InputMismatchException e) {
                             System.out.println("Invalid! Please enter valid i.e. non-negative integer \n");
                         }
                         scanner.nextLine();
+                    }
                     break;
 
                 case 3:
-                    double inputChoice3_1 = 1;
-                    double inputChoice3_2 = 1;
+                    double inputChoice3_1 = Double.POSITIVE_INFINITY;
+                    double inputChoice3_2 = Double.POSITIVE_INFINITY;
+                    while (inputChoice3_1 == Double.POSITIVE_INFINITY) {
                         try {
                             System.out.print("Enter a base integer : ");
                             inputChoice3_1 = scanner.nextDouble();
-                        }
-                        catch (InputMismatchException e) {
+                        } catch (InputMismatchException e) {
                             System.out.println("Invalid! Please enter valid i.e. non-negative integer \n");
                         }
                         scanner.nextLine();
+                    }
+                    while(inputChoice3_2 == Double.POSITIVE_INFINITY) {
                         try {
                             System.out.print("Enter the powering entity: ");
                             inputChoice3_2 = scanner.nextDouble();
-                        }
-                        catch (InputMismatchException e) {
+                        } catch (InputMismatchException e) {
                             System.out.println("Invalid! Please enter valid i.e. non-negative integer \n");
                         }
                         scanner.nextLine();
-
+                    }
                     System.out.println("Power of "+ inputChoice3_1 + " to " + inputChoice3_2 + " is: " + scientificCalculator.findPower(inputChoice3_1, inputChoice3_2));
                     System.out.println("\n");
                     break;
 
                 case 4:
-                    double inputChoice4;
+                    double inputChoice4 = 0;
+                    while (inputChoice4 <= 0) {
                         try {
                             System.out.print("Enter a integer : ");
                             inputChoice4 = scanner.nextDouble();
@@ -107,11 +110,11 @@ public class ScientificCalculator {
                                 System.out.println("Sorry! I cannot calculate this number's natural log as for negative integers and for zero, it is undefined. \n Kindly enter a positive number :\n");
                             else
                                 System.out.println("Natural Log of " + inputChoice4 + " is: " + scientificCalculator.findNaturalLog(inputChoice4) + "\n");
-                        }
-                        catch (InputMismatchException e) {
+                        } catch (InputMismatchException e) {
                             System.out.println("Natural Logarithm is only applicable for positive numbers");
                         }
                         scanner.nextLine();
+                    }
                     break;
 
                 default:
