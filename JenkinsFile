@@ -2,7 +2,7 @@
     agent any
     
     stages {
-        stage('Clone Git')
+        stage('Git Pull')
         {
         steps{
                 git 'https://github.com/yashadayal/Calculator-using-devOps.git'
@@ -18,7 +18,7 @@
                 sh "mvn test"
                 }
         }
-        stage('Build Docker Image') {
+        stage('Building Docker Image') {
 			steps {
 				sh "docker build -t yasha145/dockerproject_1:latest ."
 			}
@@ -31,7 +31,7 @@
 			    }
 			}
 		}
-		stage('Deploy to AWS EC2') {
+		stage('Deploying to AWS EC2') {
 		    steps {
 		        ansiblePlaybook becomeUser: 'null',
                 colorized: true,
