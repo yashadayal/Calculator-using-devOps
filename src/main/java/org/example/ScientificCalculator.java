@@ -26,7 +26,6 @@ public class ScientificCalculator {
                             "Enter any number other than these four to exit the program\n" +
                             "Please enter your choice: "
             );
-
             int input;
             try {
                 input = scanner.nextInt();
@@ -82,7 +81,7 @@ public class ScientificCalculator {
                             System.out.print("Enter a base integer : ");
                             inputChoice3_1 = scanner.nextDouble();
                         } catch (InputMismatchException e) {
-                            System.out.println("Invalid! Please enter valid i.e. non-negative integer \n");
+                            System.out.println("Invalid! Please enter valid i.e. numeric integer\n");
                         }
                         scanner.nextLine();
                     }
@@ -91,7 +90,7 @@ public class ScientificCalculator {
                             System.out.print("Enter the powering entity: ");
                             inputChoice3_2 = scanner.nextDouble();
                         } catch (InputMismatchException e) {
-                            System.out.println("Invalid! Please enter valid i.e. non-negative integer \n");
+                            System.out.println("Invalid! Please enter valid i.e. numeric integer \n");
                         }
                         scanner.nextLine();
                     }

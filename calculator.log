@@ -570,3 +570,195 @@
 2023-03-20 23:59:43.829 [main] INFO  org.example.ScientificCalculator - [Square root is: ] - 8.0
 2023-03-20 23:59:43.830 [main] INFO  org.example.ScientificCalculator - [Calculating the square root of: ] - 196.0
 2023-03-20 23:59:43.830 [main] INFO  org.example.ScientificCalculator - [Square root is: ] - 14.0
+2023-03-21 23:07:57.074 [main] INFO  org.example.ScientificCalculator - [Calculating natural log of :] - 1.0
+2023-03-21 23:07:57.077 [main] INFO  org.example.ScientificCalculator - [Natural log is: ] - 0.0
+2023-03-21 23:07:57.077 [main] INFO  org.example.ScientificCalculator - [Calculating natural log of :] - 56.0
+2023-03-21 23:07:57.078 [main] INFO  org.example.ScientificCalculator - [Natural log is: ] - 4.02535169073515
+2023-03-21 23:07:57.078 [main] INFO  org.example.ScientificCalculator - [Calculating natural log of :] - 7.0
+2023-03-21 23:07:57.078 [main] INFO  org.example.ScientificCalculator - [Natural log is: ] - 1.9459101490553132
+2023-03-21 23:07:57.078 [main] INFO  org.example.ScientificCalculator - [Calculating natural log of :] - 300.0
+2023-03-21 23:07:57.078 [main] INFO  org.example.ScientificCalculator - [Natural log is: ] - 5.703782474656201
+2023-03-21 23:07:57.079 [main] INFO  org.example.ScientificCalculator - [Calculating the square root of: ] - 3.0
+2023-03-21 23:07:57.080 [main] INFO  org.example.ScientificCalculator - [Square root is: ] - 1.7320508075688772
+2023-03-21 23:07:57.080 [main] INFO  org.example.ScientificCalculator - [Calculating the square root of: ] - 11.0
+2023-03-21 23:07:57.080 [main] INFO  org.example.ScientificCalculator - [Square root is: ] - 3.3166247903554
+2023-03-21 23:07:57.080 [main] INFO  org.example.ScientificCalculator - [Calculating the square root of: ] - 10.0
+2023-03-21 23:07:57.080 [main] INFO  org.example.ScientificCalculator - [Square root is: ] - 3.1622776601683795
+2023-03-21 23:07:57.080 [main] INFO  org.example.ScientificCalculator - [Calculating the square root of: ] - 6.0
+2023-03-21 23:07:57.080 [main] INFO  org.example.ScientificCalculator - [Square root is: ] - 2.449489742783178
+2023-03-21 23:07:57.081 [main] INFO  org.example.ScientificCalculator - [Calculating natural log of :] - 2.4
+2023-03-21 23:07:57.081 [main] INFO  org.example.ScientificCalculator - [Natural log is: ] - 0.8754687373538999
+2023-03-21 23:07:57.081 [main] INFO  org.example.ScientificCalculator - [Calculating natural log of :] - 3.1
+2023-03-21 23:07:57.082 [main] INFO  org.example.ScientificCalculator - [Natural log is: ] - 1.1314021114911006
+2023-03-21 23:07:57.082 [main] INFO  org.example.ScientificCalculator - [Calculating natural log of :] - 5.0
+2023-03-21 23:07:57.082 [main] INFO  org.example.ScientificCalculator - [Natural log is: ] - 1.6094379124341003
+2023-03-21 23:07:57.082 [main] INFO  org.example.ScientificCalculator - [Calculating natural log of :] - 2.1
+2023-03-21 23:07:57.082 [main] INFO  org.example.ScientificCalculator - [Natural log is: ] - 0.7419373447293773
+2023-03-21 23:07:57.083 [main] INFO  org.example.ScientificCalculator - [Calculating factorial of: ] - 5
+2023-03-21 23:07:57.083 [main] INFO  org.example.ScientificCalculator - [Factorial is: ] - 120
+2023-03-21 23:07:57.084 [main] INFO  org.example.ScientificCalculator - [Calculating factorial of: ] - 12
+2023-03-21 23:07:57.084 [main] INFO  org.example.ScientificCalculator - [Factorial is: ] - 479001600
+2023-03-21 23:07:57.084 [main] INFO  org.example.ScientificCalculator - [Calculating factorial of: ] - 10
+2023-03-21 23:07:57.084 [main] INFO  org.example.ScientificCalculator - [Factorial is: ] - 3628800
+2023-03-21 23:07:57.084 [main] INFO  org.example.ScientificCalculator - [Calculating factorial of: ] - 6
+2023-03-21 23:07:57.084 [main] INFO  org.example.ScientificCalculator - [Factorial is: ] - 720
+2023-03-21 23:07:57.085 [main] INFO  org.example.ScientificCalculator - [Calculating factorial of: ] - 5
+2023-03-21 23:07:57.085 [main] INFO  org.example.ScientificCalculator - [Factorial is: ] - 120
+2023-03-21 23:07:57.085 [main] INFO  org.example.ScientificCalculator - [Calculating factorial of: ] - 5
+2023-03-21 23:07:57.085 [main] INFO  org.example.ScientificCalculator - [Factorial is: ] - 120
+2023-03-21 23:07:57.085 [main] INFO  org.example.ScientificCalculator - [Calculating factorial of: ] - 2
+2023-03-21 23:07:57.085 [main] INFO  org.example.ScientificCalculator - [Factorial is: ] - 2
+2023-03-21 23:07:57.086 [main] INFO  org.example.ScientificCalculator - [Calculating factorial of: ] - 10
+2023-03-21 23:07:57.086 [main] INFO  org.example.ScientificCalculator - [Factorial is: ] - 3628800
+2023-03-21 23:07:57.095 [main] INFO  org.example.ScientificCalculator - [Calculating power of  - 2.0 to] 4.0
+2023-03-21 23:07:57.095 [main] INFO  org.example.ScientificCalculator - [Power is: ] - 16.0
+2023-03-21 23:07:57.096 [main] INFO  org.example.ScientificCalculator - [Calculating power of  - 3.0 to] 3.0
+2023-03-21 23:07:57.096 [main] INFO  org.example.ScientificCalculator - [Power is: ] - 27.0
+2023-03-21 23:07:57.096 [main] INFO  org.example.ScientificCalculator - [Calculating power of  - 2.0 to] 10.0
+2023-03-21 23:07:57.096 [main] INFO  org.example.ScientificCalculator - [Power is: ] - 1024.0
+2023-03-21 23:07:57.096 [main] INFO  org.example.ScientificCalculator - [Calculating power of  - 5.0 to] 2.0
+2023-03-21 23:07:57.096 [main] INFO  org.example.ScientificCalculator - [Power is: ] - 25.0
+2023-03-21 23:07:57.097 [main] INFO  org.example.ScientificCalculator - [Calculating power of  - 2.0 to] 2.0
+2023-03-21 23:07:57.097 [main] INFO  org.example.ScientificCalculator - [Power is: ] - 4.0
+2023-03-21 23:07:57.097 [main] INFO  org.example.ScientificCalculator - [Calculating power of  - 4.0 to] 5.0
+2023-03-21 23:07:57.097 [main] INFO  org.example.ScientificCalculator - [Power is: ] - 1024.0
+2023-03-21 23:07:57.097 [main] INFO  org.example.ScientificCalculator - [Calculating power of  - 7.0 to] 3.0
+2023-03-21 23:07:57.098 [main] INFO  org.example.ScientificCalculator - [Power is: ] - 343.0
+2023-03-21 23:07:57.098 [main] INFO  org.example.ScientificCalculator - [Calculating power of  - -12.0 to] 5.0
+2023-03-21 23:07:57.098 [main] INFO  org.example.ScientificCalculator - [Power is: ] - -248832.0
+2023-03-21 23:07:57.098 [main] INFO  org.example.ScientificCalculator - [Calculating the square root of: ] - 121.0
+2023-03-21 23:07:57.099 [main] INFO  org.example.ScientificCalculator - [Square root is: ] - 11.0
+2023-03-21 23:07:57.099 [main] INFO  org.example.ScientificCalculator - [Calculating the square root of: ] - 25.0
+2023-03-21 23:07:57.099 [main] INFO  org.example.ScientificCalculator - [Square root is: ] - 5.0
+2023-03-21 23:07:57.099 [main] INFO  org.example.ScientificCalculator - [Calculating the square root of: ] - 64.0
+2023-03-21 23:07:57.099 [main] INFO  org.example.ScientificCalculator - [Square root is: ] - 8.0
+2023-03-21 23:07:57.099 [main] INFO  org.example.ScientificCalculator - [Calculating the square root of: ] - 196.0
+2023-03-21 23:07:57.100 [main] INFO  org.example.ScientificCalculator - [Square root is: ] - 14.0
+2023-03-22 19:08:11.880 [main] INFO  org.example.ScientificCalculator - [Calculating natural log of :] - 1.0
+2023-03-22 19:08:11.883 [main] INFO  org.example.ScientificCalculator - [Natural log is: ] - 0.0
+2023-03-22 19:08:11.884 [main] INFO  org.example.ScientificCalculator - [Calculating natural log of :] - 56.0
+2023-03-22 19:08:11.884 [main] INFO  org.example.ScientificCalculator - [Natural log is: ] - 4.02535169073515
+2023-03-22 19:08:11.884 [main] INFO  org.example.ScientificCalculator - [Calculating natural log of :] - 7.0
+2023-03-22 19:08:11.884 [main] INFO  org.example.ScientificCalculator - [Natural log is: ] - 1.9459101490553132
+2023-03-22 19:08:11.884 [main] INFO  org.example.ScientificCalculator - [Calculating natural log of :] - 300.0
+2023-03-22 19:08:11.884 [main] INFO  org.example.ScientificCalculator - [Natural log is: ] - 5.703782474656201
+2023-03-22 19:08:11.885 [main] INFO  org.example.ScientificCalculator - [Calculating the square root of: ] - 3.0
+2023-03-22 19:08:11.885 [main] INFO  org.example.ScientificCalculator - [Square root is: ] - 1.7320508075688772
+2023-03-22 19:08:11.886 [main] INFO  org.example.ScientificCalculator - [Calculating the square root of: ] - 11.0
+2023-03-22 19:08:11.886 [main] INFO  org.example.ScientificCalculator - [Square root is: ] - 3.3166247903554
+2023-03-22 19:08:11.886 [main] INFO  org.example.ScientificCalculator - [Calculating the square root of: ] - 10.0
+2023-03-22 19:08:11.886 [main] INFO  org.example.ScientificCalculator - [Square root is: ] - 3.1622776601683795
+2023-03-22 19:08:11.886 [main] INFO  org.example.ScientificCalculator - [Calculating the square root of: ] - 6.0
+2023-03-22 19:08:11.886 [main] INFO  org.example.ScientificCalculator - [Square root is: ] - 2.449489742783178
+2023-03-22 19:08:11.887 [main] INFO  org.example.ScientificCalculator - [Calculating natural log of :] - 2.4
+2023-03-22 19:08:11.887 [main] INFO  org.example.ScientificCalculator - [Natural log is: ] - 0.8754687373538999
+2023-03-22 19:08:11.887 [main] INFO  org.example.ScientificCalculator - [Calculating natural log of :] - 3.1
+2023-03-22 19:08:11.887 [main] INFO  org.example.ScientificCalculator - [Natural log is: ] - 1.1314021114911006
+2023-03-22 19:08:11.887 [main] INFO  org.example.ScientificCalculator - [Calculating natural log of :] - 5.0
+2023-03-22 19:08:11.887 [main] INFO  org.example.ScientificCalculator - [Natural log is: ] - 1.6094379124341003
+2023-03-22 19:08:11.887 [main] INFO  org.example.ScientificCalculator - [Calculating natural log of :] - 2.1
+2023-03-22 19:08:11.887 [main] INFO  org.example.ScientificCalculator - [Natural log is: ] - 0.7419373447293773
+2023-03-22 19:08:11.888 [main] INFO  org.example.ScientificCalculator - [Calculating factorial of: ] - 5
+2023-03-22 19:08:11.888 [main] INFO  org.example.ScientificCalculator - [Factorial is: ] - 120
+2023-03-22 19:08:11.888 [main] INFO  org.example.ScientificCalculator - [Calculating factorial of: ] - 12
+2023-03-22 19:08:11.888 [main] INFO  org.example.ScientificCalculator - [Factorial is: ] - 479001600
+2023-03-22 19:08:11.888 [main] INFO  org.example.ScientificCalculator - [Calculating factorial of: ] - 10
+2023-03-22 19:08:11.889 [main] INFO  org.example.ScientificCalculator - [Factorial is: ] - 3628800
+2023-03-22 19:08:11.889 [main] INFO  org.example.ScientificCalculator - [Calculating factorial of: ] - 6
+2023-03-22 19:08:11.889 [main] INFO  org.example.ScientificCalculator - [Factorial is: ] - 720
+2023-03-22 19:08:11.889 [main] INFO  org.example.ScientificCalculator - [Calculating factorial of: ] - 5
+2023-03-22 19:08:11.889 [main] INFO  org.example.ScientificCalculator - [Factorial is: ] - 120
+2023-03-22 19:08:11.889 [main] INFO  org.example.ScientificCalculator - [Calculating factorial of: ] - 5
+2023-03-22 19:08:11.890 [main] INFO  org.example.ScientificCalculator - [Factorial is: ] - 120
+2023-03-22 19:08:11.890 [main] INFO  org.example.ScientificCalculator - [Calculating factorial of: ] - 2
+2023-03-22 19:08:11.890 [main] INFO  org.example.ScientificCalculator - [Factorial is: ] - 2
+2023-03-22 19:08:11.890 [main] INFO  org.example.ScientificCalculator - [Calculating factorial of: ] - 10
+2023-03-22 19:08:11.890 [main] INFO  org.example.ScientificCalculator - [Factorial is: ] - 3628800
+2023-03-22 19:08:11.900 [main] INFO  org.example.ScientificCalculator - [Calculating power of  - 2.0 to] 4.0
+2023-03-22 19:08:11.900 [main] INFO  org.example.ScientificCalculator - [Power is: ] - 16.0
+2023-03-22 19:08:11.900 [main] INFO  org.example.ScientificCalculator - [Calculating power of  - 3.0 to] 3.0
+2023-03-22 19:08:11.901 [main] INFO  org.example.ScientificCalculator - [Power is: ] - 27.0
+2023-03-22 19:08:11.901 [main] INFO  org.example.ScientificCalculator - [Calculating power of  - 2.0 to] 10.0
+2023-03-22 19:08:11.901 [main] INFO  org.example.ScientificCalculator - [Power is: ] - 1024.0
+2023-03-22 19:08:11.901 [main] INFO  org.example.ScientificCalculator - [Calculating power of  - 5.0 to] 2.0
+2023-03-22 19:08:11.901 [main] INFO  org.example.ScientificCalculator - [Power is: ] - 25.0
+2023-03-22 19:08:11.902 [main] INFO  org.example.ScientificCalculator - [Calculating power of  - 2.0 to] 2.0
+2023-03-22 19:08:11.902 [main] INFO  org.example.ScientificCalculator - [Power is: ] - 4.0
+2023-03-22 19:08:11.902 [main] INFO  org.example.ScientificCalculator - [Calculating power of  - 4.0 to] 5.0
+2023-03-22 19:08:11.902 [main] INFO  org.example.ScientificCalculator - [Power is: ] - 1024.0
+2023-03-22 19:08:11.902 [main] INFO  org.example.ScientificCalculator - [Calculating power of  - 7.0 to] 3.0
+2023-03-22 19:08:11.903 [main] INFO  org.example.ScientificCalculator - [Power is: ] - 343.0
+2023-03-22 19:08:11.903 [main] INFO  org.example.ScientificCalculator - [Calculating power of  - -12.0 to] 5.0
+2023-03-22 19:08:11.903 [main] INFO  org.example.ScientificCalculator - [Power is: ] - -248832.0
+2023-03-22 19:08:11.903 [main] INFO  org.example.ScientificCalculator - [Calculating the square root of: ] - 121.0
+2023-03-22 19:08:11.904 [main] INFO  org.example.ScientificCalculator - [Square root is: ] - 11.0
+2023-03-22 19:08:11.904 [main] INFO  org.example.ScientificCalculator - [Calculating the square root of: ] - 25.0
+2023-03-22 19:08:11.904 [main] INFO  org.example.ScientificCalculator - [Square root is: ] - 5.0
+2023-03-22 19:08:11.904 [main] INFO  org.example.ScientificCalculator - [Calculating the square root of: ] - 64.0
+2023-03-22 19:08:11.904 [main] INFO  org.example.ScientificCalculator - [Square root is: ] - 8.0
+2023-03-22 19:08:11.904 [main] INFO  org.example.ScientificCalculator - [Calculating the square root of: ] - 196.0
+2023-03-22 19:08:11.904 [main] INFO  org.example.ScientificCalculator - [Square root is: ] - 14.0
+2023-03-22 19:13:04.747 [main] INFO  org.example.ScientificCalculator - [Calculating natural log of :] - 1.0
+2023-03-22 19:13:04.750 [main] INFO  org.example.ScientificCalculator - [Natural log is: ] - 0.0
+2023-03-22 19:13:04.751 [main] INFO  org.example.ScientificCalculator - [Calculating natural log of :] - 56.0
+2023-03-22 19:13:04.751 [main] INFO  org.example.ScientificCalculator - [Natural log is: ] - 4.02535169073515
+2023-03-22 19:13:04.751 [main] INFO  org.example.ScientificCalculator - [Calculating natural log of :] - 7.0
+2023-03-22 19:13:04.751 [main] INFO  org.example.ScientificCalculator - [Natural log is: ] - 1.9459101490553132
+2023-03-22 19:13:04.751 [main] INFO  org.example.ScientificCalculator - [Calculating natural log of :] - 300.0
+2023-03-22 19:13:04.751 [main] INFO  org.example.ScientificCalculator - [Natural log is: ] - 5.703782474656201
+2023-03-22 19:13:04.753 [main] INFO  org.example.ScientificCalculator - [Calculating the square root of: ] - 3.0
+2023-03-22 19:13:04.753 [main] INFO  org.example.ScientificCalculator - [Square root is: ] - 1.7320508075688772
+2023-03-22 19:13:04.753 [main] INFO  org.example.ScientificCalculator - [Calculating the square root of: ] - 11.0
+2023-03-22 19:13:04.754 [main] INFO  org.example.ScientificCalculator - [Square root is: ] - 3.3166247903554
+2023-03-22 19:13:04.758 [main] INFO  org.example.ScientificCalculator - [Calculating the square root of: ] - 10.0
+2023-03-22 19:13:04.759 [main] INFO  org.example.ScientificCalculator - [Square root is: ] - 3.1622776601683795
+2023-03-22 19:13:04.759 [main] INFO  org.example.ScientificCalculator - [Calculating the square root of: ] - 6.0
+2023-03-22 19:13:04.759 [main] INFO  org.example.ScientificCalculator - [Square root is: ] - 2.449489742783178
+2023-03-22 19:13:04.760 [main] INFO  org.example.ScientificCalculator - [Calculating natural log of :] - 2.4
+2023-03-22 19:13:04.760 [main] INFO  org.example.ScientificCalculator - [Natural log is: ] - 0.8754687373538999
+2023-03-22 19:13:04.760 [main] INFO  org.example.ScientificCalculator - [Calculating natural log of :] - 3.1
+2023-03-22 19:13:04.760 [main] INFO  org.example.ScientificCalculator - [Natural log is: ] - 1.1314021114911006
+2023-03-22 19:13:04.760 [main] INFO  org.example.ScientificCalculator - [Calculating natural log of :] - 5.0
+2023-03-22 19:13:04.760 [main] INFO  org.example.ScientificCalculator - [Natural log is: ] - 1.6094379124341003
+2023-03-22 19:13:04.760 [main] INFO  org.example.ScientificCalculator - [Calculating natural log of :] - 2.1
+2023-03-22 19:13:04.760 [main] INFO  org.example.ScientificCalculator - [Natural log is: ] - 0.7419373447293773
+2023-03-22 19:13:04.761 [main] INFO  org.example.ScientificCalculator - [Calculating factorial of: ] - 5
+2023-03-22 19:13:04.761 [main] INFO  org.example.ScientificCalculator - [Factorial is: ] - 120
+2023-03-22 19:13:04.761 [main] INFO  org.example.ScientificCalculator - [Calculating factorial of: ] - 12
+2023-03-22 19:13:04.761 [main] INFO  org.example.ScientificCalculator - [Factorial is: ] - 479001600
+2023-03-22 19:13:04.762 [main] INFO  org.example.ScientificCalculator - [Calculating factorial of: ] - 10
+2023-03-22 19:13:04.762 [main] INFO  org.example.ScientificCalculator - [Factorial is: ] - 3628800
+2023-03-22 19:13:04.762 [main] INFO  org.example.ScientificCalculator - [Calculating factorial of: ] - 6
+2023-03-22 19:13:04.762 [main] INFO  org.example.ScientificCalculator - [Factorial is: ] - 720
+2023-03-22 19:13:04.762 [main] INFO  org.example.ScientificCalculator - [Calculating factorial of: ] - 5
+2023-03-22 19:13:04.762 [main] INFO  org.example.ScientificCalculator - [Factorial is: ] - 120
+2023-03-22 19:13:04.763 [main] INFO  org.example.ScientificCalculator - [Calculating factorial of: ] - 5
+2023-03-22 19:13:04.763 [main] INFO  org.example.ScientificCalculator - [Factorial is: ] - 120
+2023-03-22 19:13:04.763 [main] INFO  org.example.ScientificCalculator - [Calculating factorial of: ] - 2
+2023-03-22 19:13:04.763 [main] INFO  org.example.ScientificCalculator - [Factorial is: ] - 2
+2023-03-22 19:13:04.763 [main] INFO  org.example.ScientificCalculator - [Calculating factorial of: ] - 10
+2023-03-22 19:13:04.763 [main] INFO  org.example.ScientificCalculator - [Factorial is: ] - 3628800
+2023-03-22 19:13:04.772 [main] INFO  org.example.ScientificCalculator - [Calculating power of  - 2.0 to] 4.0
+2023-03-22 19:13:04.773 [main] INFO  org.example.ScientificCalculator - [Power is: ] - 16.0
+2023-03-22 19:13:04.774 [main] INFO  org.example.ScientificCalculator - [Calculating power of  - 3.0 to] 3.0
+2023-03-22 19:13:04.774 [main] INFO  org.example.ScientificCalculator - [Power is: ] - 27.0
+2023-03-22 19:13:04.774 [main] INFO  org.example.ScientificCalculator - [Calculating power of  - 2.0 to] 10.0
+2023-03-22 19:13:04.774 [main] INFO  org.example.ScientificCalculator - [Power is: ] - 1024.0
+2023-03-22 19:13:04.774 [main] INFO  org.example.ScientificCalculator - [Calculating power of  - 5.0 to] 2.0
+2023-03-22 19:13:04.774 [main] INFO  org.example.ScientificCalculator - [Power is: ] - 25.0
+2023-03-22 19:13:04.775 [main] INFO  org.example.ScientificCalculator - [Calculating power of  - 2.0 to] 2.0
+2023-03-22 19:13:04.775 [main] INFO  org.example.ScientificCalculator - [Power is: ] - 4.0
+2023-03-22 19:13:04.775 [main] INFO  org.example.ScientificCalculator - [Calculating power of  - 4.0 to] 5.0
+2023-03-22 19:13:04.775 [main] INFO  org.example.ScientificCalculator - [Power is: ] - 1024.0
+2023-03-22 19:13:04.775 [main] INFO  org.example.ScientificCalculator - [Calculating power of  - 7.0 to] 3.0
+2023-03-22 19:13:04.775 [main] INFO  org.example.ScientificCalculator - [Power is: ] - 343.0
+2023-03-22 19:13:04.775 [main] INFO  org.example.ScientificCalculator - [Calculating power of  - -12.0 to] 5.0
+2023-03-22 19:13:04.775 [main] INFO  org.example.ScientificCalculator - [Power is: ] - -248832.0
+2023-03-22 19:13:04.776 [main] INFO  org.example.ScientificCalculator - [Calculating the square root of: ] - 121.0
+2023-03-22 19:13:04.776 [main] INFO  org.example.ScientificCalculator - [Square root is: ] - 11.0
+2023-03-22 19:13:04.776 [main] INFO  org.example.ScientificCalculator - [Calculating the square root of: ] - 25.0
+2023-03-22 19:13:04.776 [main] INFO  org.example.ScientificCalculator - [Square root is: ] - 5.0
+2023-03-22 19:13:04.776 [main] INFO  org.example.ScientificCalculator - [Calculating the square root of: ] - 64.0
+2023-03-22 19:13:04.776 [main] INFO  org.example.ScientificCalculator - [Square root is: ] - 8.0
+2023-03-22 19:13:04.777 [main] INFO  org.example.ScientificCalculator - [Calculating the square root of: ] - 196.0
+2023-03-22 19:13:04.777 [main] INFO  org.example.ScientificCalculator - [Square root is: ] - 14.0
